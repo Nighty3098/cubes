@@ -3,8 +3,8 @@
 <br>
 
 <div class="badges" align="center">
-    <a href="https://github.com/Nighty3098/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SFML-%2357A143.svg?&style=for-the-badge&logo=sfml&logoColor=white"/> </a>
-    <a href="https://github.com/Nighty3098/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c  ++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> </a>
+    <img src="https://img.shields.io/badge/sfml-%232e7149.svg?style=for-the-badge&logo=sfml&logoColor=black&color=a6e0b8" />
+    <img src="https://img.shields.io/badge/c  ++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black&color=7dc4e4"/>
 </div>
 <br>
 <div class"screenshots" align="center">
