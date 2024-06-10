@@ -3,7 +3,7 @@
 <br>
 
 <div class="badges" align="center">
-    <img src="https://invidget.switchblade.xyz/r8jWX8ugDd" style="border-radius: 15px;"/><br><br>
+    <a href="https://discord.gg/tnHSEc2cZv"><img src="https://invidget.switchblade.xyz/r8jWX8ugDd" style="border-radius: 15px;"/></a><br><br>
     <img src="https://img.shields.io/badge/sfml-%232e7149.svg?style=for-the-badge&logo=sfml&logoColor=black&color=a6e0b8" />
     <img src="https://img.shields.io/badge/c  ++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black&color=7dc4e4"/>
 </div>
